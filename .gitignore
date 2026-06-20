@@ -1,2 +1,5 @@
 .env
 pokedex-cli
+repl.log
+out
+.vscode
